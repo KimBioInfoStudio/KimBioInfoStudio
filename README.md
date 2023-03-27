@@ -47,4 +47,4 @@
 </p>
 
 ----
-<p align="center">made by [@KimBioInfoStudio](https://github.com/KimBioInfoStudio) with ⌨ & 🖱</p>
+<p align="center">made by <a> href="https://github.com/KimBioInfoStudio"@KimBioInfoStudio</a> with ⌨ & 🖱</p>
