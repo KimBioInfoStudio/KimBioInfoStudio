@@ -4,7 +4,7 @@
   
 ----
 
-### <div align="center">I'm KimBioInfoStudio, a bug creator, service as a deep learning engineer @Intel</div>  
+### <div align="center">I'm KimBioInfoStudio, a bug creator , service as a deep learning engineer @Intel</div>  
   
 - 🔭 I’m currently working on [PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice)  
 - 🌱 I’m currently learning Rust and DPC++  
@@ -45,3 +45,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KimBioInfoStudio&color=ff69b4&style=for-the-badge" align="center" />
 </p>
+
+----
+<p align="center">made by [@KimBioInfoStudio](https://github.com/KimBioInfoStudio) with ⌨ & 🖱</p>
