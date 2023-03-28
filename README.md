@@ -4,7 +4,7 @@
   
 ----
 
-### <div align="center">I'm KimBioInfoStudio, a bug creator, like <del>singing</del>, <del>dancing</del> and <del>paling basketball</del>, service as a deep learning engineer @Intel</div>  
+### <div align="center">I'm KimBioInfoStudio, a bug creator, like <del>singing</del>, <del>dancing</del> and <del>playing basketball</del>, service as a deep learning engineer @Intel</div>  
   
 - 🔭 I’m currently working on [PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice)  
 - 🌱 I’m currently learning Rust and DPC++  
