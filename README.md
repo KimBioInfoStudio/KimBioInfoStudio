@@ -6,7 +6,7 @@
 
 ### <div align="center">I'm KimBioInfoStudio, a bug creator, like <del>singing</del>, <del>dancing</del> and <del>playing basketball</del>, service as a deep learning engineer @Intel</div>  
   
-- 🔭 I’m currently working on [Hahana](https://docs.habana.ai/en/latest/)
+- 🔭 I’m currently working on [Habana](https://docs.habana.ai/en/latest/)
 - 🌱 I’m currently learning Rust and DPC++  
 - ❓ Ask me about anything related to deep learning benchmark  
 - ⚡ Fun fact: I use tabs over spaces  
