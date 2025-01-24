@@ -1,13 +1,9 @@
-<div align="center">
-<img src="https://pic1.zhimg.com/v2-93344bf286562722173e35f16e7ac6fc_r.jpg?source=1940ef5c" align="center" style="width: 100%" />
-</div>  
-  
 ----
 
 ### <div align="center">I'm KimBioInfoStudio, a bug creator, like <del>singing</del>, <del>dancing</del> and <del>playing basketball</del>, service as a deep learning engineer @Intel</div>  
   
-- 🔭 I’m currently working on [Habana](https://docs.habana.ai/en/latest/)
-- 🌱 I’m currently learning Rust and DPC++  
+- 🔭 I’m currently working on [Nvidia](https://www.nvidia.com/en-us/ai/)
+- 🌱 I’m currently learning Rust and CI/CD 
 - ❓ Ask me about anything related to deep learning benchmark  
 - ⚡ Fun fact: I use tabs over spaces  
     
