@@ -10,7 +10,7 @@
 ----
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,cmake,css,docker,git,html,js,jenkins,linux,md,mongodb,mysql,nginx,ps,py,pytorch,rabbitmq,raspberrypi,redis,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,cpp,cmake,css,docker,git,html,js,jenkins,kubernetes,linux,md,mongodb,mysql,nginx,ps,py,pytorch,rabbitmq,raspberrypi,redis,vim,vscode" />
 </p>
 
 ----
